@@ -7,10 +7,10 @@ Hi friends, I am a frontend developer, and today I want to tell you about my ser
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SerGio Play&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SerGio Play&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerGio Play&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerGioPlay01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SerGio Play&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SerGioPlay01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -19,6 +19,6 @@ Hi friends, I am a frontend developer, and today I want to tell you about my ser
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SerGio Play&icon=3&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SerGioPlay01&icon=3&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
