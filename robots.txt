@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /icons/
+Disallow: /res/
+Disallow: /json_animation/
+Disallow: /bg/
+Allow: /
